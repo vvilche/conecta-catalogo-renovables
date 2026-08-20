@@ -1,0 +1,74 @@
+{
+  "empresa": "CVE (PMGD)",
+  "slug": "pmgd_cve",
+  "rubro": "Generación solar PMGD — 2 parque(s), 18.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [LOOKALIKE — prospecto nuevo]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 2 parques PMGD fotovoltaicos (18.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "CVE",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV SANTA FRANCISCA",
+      "cliente": "CVE",
+      "ubicacion": "Vicuña",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV ORQUIDEA SOLAR",
+      "cliente": "CVE",
+      "ubicacion": "Ovalle",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Zakya Ben Ali",
+      "cargo": "Country Manager",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "zbenali@cve-group.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zakya%20Ben%20Ali%20CVE",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    },
+    {
+      "nombre": "Joel Padilla",
+      "cargo": "Gerente de Operaciones (CVE Chile)",
+      "tipo": "jefe_planta",
+      "rol_compra": "R",
+      "correo": "jpadilla@cve-group.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joel%20Padilla%20CVE",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "zbenali@cve-group.com",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "empresa": "Carbon Free Technology (PMGD)",
+  "slug": "pmgd_carbon_free_technology",
+  "rubro": "Generación solar PMGD — 7 parque(s), 63.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [LOOKALIKE — prospecto nuevo]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 7 parques PMGD fotovoltaicos (63.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Carbon Free Technology",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV QUINTACABRERO",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Cabrero",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV CABRERO SOLAR",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Cabrero",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV CORTIJO",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Cabrero",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV MOYA",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Cabrero",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV LINARES SOLAR",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Chacahuín",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV EL ROMERAL",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Chimbarongo",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV LA ESTANCIA",
+      "cliente": "Carbon Free Technology",
+      "ubicacion": "Retiro",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "José Cubillos",
+      "cargo": "Gerente de Operaciones",
+      "tipo": "gerente_general",
+      "rol_compra": "D",
+      "correo": "jcubillos@carbonfreetech.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=José%20Cubillos%20Carbon%20Free%20Technology",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "jcubillos@carbonfreetech.com",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

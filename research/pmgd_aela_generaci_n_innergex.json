@@ -1,0 +1,67 @@
+{
+  "empresa": "Aela Generación (Innergex) (PMGD)",
+  "slug": "pmgd_aela_generaci_n_innergex",
+  "rubro": "Generación solar PMGD — 1 parque(s), 9.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [CLIENTE ACTUAL — ampliar cross-sell]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 1 parques PMGD fotovoltaicos (9.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Aela Generación (Innergex)",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV MAIMALICAN",
+      "cliente": "Aela Generación (Innergex)",
+      "ubicacion": "Quereo",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Cristóbal Avello",
+      "cargo": "Gerente de Operaciones / Country Manager",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "cavello@innergex.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristóbal%20Avello%20Aela%20Generación%20(Innergex)",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    },
+    {
+      "nombre": "Jaime Pino Cox",
+      "cargo": "Gerente de Operaciones / Country Manager",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "cavello@innergex.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jaime%20Pino%20Cox%20Aela%20Generación%20(Innergex)",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "cavello@innergex.com",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

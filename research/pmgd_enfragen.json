@@ -1,0 +1,109 @@
+{
+  "empresa": "EnfraGen (PMGD)",
+  "slug": "pmgd_enfragen",
+  "rubro": "Generación solar PMGD — 7 parque(s), 63.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [CLIENTE ACTUAL — ampliar cross-sell]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 7 parques PMGD fotovoltaicos (63.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "EnfraGen",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV FLORENCIA SOLAR",
+      "cliente": "EnfraGen",
+      "ubicacion": "Quereo",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD TER EL FARO",
+      "cliente": "EnfraGen",
+      "ubicacion": "Quereo",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV GABRIELA",
+      "cliente": "EnfraGen",
+      "ubicacion": "Vicuña",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV PASTRAN",
+      "cliente": "EnfraGen",
+      "ubicacion": "Ovalle",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV SUNHUNTER",
+      "cliente": "EnfraGen",
+      "ubicacion": "Ovalle",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV GRANATE",
+      "cliente": "EnfraGen",
+      "ubicacion": "Ovalle",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV ANAKENA",
+      "cliente": "EnfraGen",
+      "ubicacion": "Ovalle",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Manuel Martínez",
+      "cargo": "Gerente de Generación / Gerente de Mantenimiento",
+      "tipo": "gerente_general",
+      "rol_compra": "D",
+      "correo": "mmartinez@enfragen.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Manuel%20Martínez%20EnfraGen",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    },
+    {
+      "nombre": "Héctor Garrido",
+      "cargo": "Gerente de Generación / Gerente de Mantenimiento",
+      "tipo": "gerente_general",
+      "rol_compra": "D",
+      "correo": "mmartinez@enfragen.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Héctor%20Garrido%20EnfraGen",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "mmartinez@enfragen.com",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

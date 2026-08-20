@@ -1,0 +1,78 @@
+{
+  "empresa": "Tralka (PMGD)",
+  "slug": "pmgd_tralka",
+  "rubro": "Generación solar PMGD — 4 parque(s), 36.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [LOOKALIKE — prospecto nuevo]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 4 parques PMGD fotovoltaicos (36.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Tralka",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV NORTE CHICO",
+      "cliente": "Tralka",
+      "ubicacion": "Quereo",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV LOS GORRIONES",
+      "cliente": "Tralka",
+      "ubicacion": "Retiro",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV LUNA DEL NORTE",
+      "cliente": "Tralka",
+      "ubicacion": "Vicuña",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV SOL DEL NORTE",
+      "cliente": "Tralka",
+      "ubicacion": "Vicuña",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Gonzalo Menares Cortés",
+      "cargo": "Encargado Titular / Representante",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "gmenares@tralka.cl",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gonzalo%20Menares%20Cortés%20Tralka",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "gmenares@tralka.cl",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

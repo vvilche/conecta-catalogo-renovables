@@ -1,0 +1,81 @@
+{
+  "empresa": "Pacific Hydro (PMGD)",
+  "slug": "pmgd_pacific_hydro",
+  "rubro": "Generación solar PMGD — 3 parque(s), 27.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [CLIENTE ACTUAL — ampliar cross-sell]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 3 parques PMGD fotovoltaicos (27.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Pacific Hydro",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV DOÑA REGINA SOLAR",
+      "cliente": "Pacific Hydro",
+      "ubicacion": "Duqueco",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV SIRIMAVO",
+      "cliente": "Pacific Hydro",
+      "ubicacion": "Monte Patria",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV RAMIREZ DEL VERANO SOLAR",
+      "cliente": "Pacific Hydro",
+      "ubicacion": "Ovalle",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Nigel Baker",
+      "cargo": "Gerente General / Engineering & Delivery Manager",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "nbaker@pacifichydro.cl",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nigel%20Baker%20Pacific%20Hydro",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    },
+    {
+      "nombre": "Renzo Valentino",
+      "cargo": "Gerente General / Engineering & Delivery Manager",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "nbaker@pacifichydro.cl",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Renzo%20Valentino%20Pacific%20Hydro",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "nbaker@pacifichydro.cl",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

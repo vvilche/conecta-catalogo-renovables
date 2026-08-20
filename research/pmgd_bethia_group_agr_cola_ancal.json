@@ -1,0 +1,46 @@
+{
+  "empresa": "Bethia Group (Agrícola Ancalí) (PMGD)",
+  "slug": "pmgd_bethia_group_agr_cola_ancal",
+  "rubro": "Generación solar PMGD — 1 parque(s), 9.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD con RTU/EDAC → NovaTech Orion + integración (protocolos DNP3/IEC 61850). [LOOKALIKE — prospecto nuevo]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 1 parques PMGD fotovoltaicos (9.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Bethia Group (Agrícola Ancalí)",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD TER ANCALI",
+      "cliente": "Bethia Group (Agrícola Ancalí)",
+      "ubicacion": "Duqueco",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "empresa": "Toesca (PMGD)",
+  "slug": "pmgd_toesca",
+  "rubro": "Generación solar PMGD — 2 parque(s), 18.0 MW",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "PMGD solar (≤9 MW) sujeto a monitoreo del Coordinador → SCADA + integración SUPCON ECS-700. [CLIENTE ACTUAL — ampliar cross-sell]",
+  "quien_es": {
+    "descripcion": "Holding dueño/operador de 2 parques PMGD fotovoltaicos (18.0 MW) en Chile. Cada parque opera bajo un SpA propio.",
+    "fundada": "",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Toesca",
+    "rut": "",
+    "sede": "",
+    "fuentes": [
+      "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Generación solar fotovoltaica PMGD (≤9 MW)",
+      "Venta de energía al SEN"
+    ],
+    "rol_cadena": "Generador distribuido (PMGD)",
+    "fuentes": [
+      "catastro PMGD CONECTA"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "PMGD PFV VENTISQUERO SOLAR",
+      "cliente": "Toesca",
+      "ubicacion": "Chimbarongo",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    },
+    {
+      "proyecto": "PMGD PFV SDSI",
+      "cliente": "Toesca",
+      "ubicacion": "Duqueco",
+      "monto": "9.0 MW",
+      "fuente": "catastro PMGD"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Carlos Saieh Larronde",
+      "cargo": "MD Infraestructura / Gerente de Operaciones y TI",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "csaieh@toesca.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Carlos%20Saieh%20Larronde%20Toesca",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    },
+    {
+      "nombre": "Ariel Carreño",
+      "cargo": "MD Infraestructura / Gerente de Operaciones y TI",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "csaieh@toesca.com",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ariel%20Carreño%20Toesca",
+      "fuente": "catastro PMGD CONECTA (leads_contactos_pmgd.csv)"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "csaieh@toesca.com",
+    "web": "",
+    "fuente": "catastro PMGD CONECTA"
+  }
+}
