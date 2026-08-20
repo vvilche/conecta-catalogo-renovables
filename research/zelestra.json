@@ -1,0 +1,94 @@
+{
+  "empresa": "Zelestra Chile (ex Solarpack)",
+  "slug": "zelestra",
+  "rubro": "Generación solar fotovoltaica y BESS (IPP)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Electrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Zelestra (antes Solarpack), grupo español de energías renovables bajo el fondo EQT, con presencia destacada en Chile. Reporta ~2,2 GW en operación y construcción en Latinoamérica; en Chile opera 31 MW en 3 proyectos PMGD y tramita proyectos grandes como Monterrico Solar (248 MW) y el híbrido Aurora (221 MWdc + ~1 GWh BESS).",
+    "fundada": "Solarpack fundada en Getxo, España (renombrada a Zelestra)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Zelestra Corporación S.A. (grupo español, fondo EQT)",
+    "rut": "no verificado",
+    "sede": "Avenida Vitacura 2909, oficina 306, Las Condes, Santiago",
+    "fuentes": [
+      "https://zelestra.energy/wp-content/uploads/2024/09/Sustainability-Report-2022-ES.pdf",
+      "https://cartas.coordinador.cl/download_saved_file/684310da35635766fa7e5eef",
+      "https://cl.linkedin.com/company/zelestra",
+      "https://www.df.cl/empresas/energia/zelestra-instala-a-chile-en-un-rol-protagonico-de-su-cartera-en"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica",
+      "BESS/almacenamiento"
+    ],
+    "rol_cadena": "generadora independiente (IPP)",
+    "fuentes": [
+      "https://www.df.cl/empresas/energia/zelestra-instala-a-chile-en-un-rol-protagonico-de-su-cartera-en"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Monterrico Solar (planta FV)",
+      "cliente": "-",
+      "ubicacion": "Región de Ñuble",
+      "monto": "248 MW",
+      "fuente": "https://www.litoralpress.cl/SimbiuPDF/2025/03/10/5765484.pdf"
+    },
+    {
+      "proyecto": "Aurora (híbrido solar + BESS)",
+      "cliente": "-",
+      "ubicacion": "Región de Tarapacá",
+      "monto": "221 MWdc + ~1 GWh BESS",
+      "fuente": "https://cl.linkedin.com/in/francisco-mendez-cea-404bb731"
+    },
+    {
+      "proyecto": "3 proyectos PMGD en operación",
+      "cliente": "-",
+      "ubicacion": "Chile",
+      "monto": "31 MW (operativos)",
+      "fuente": "https://www.df.cl/empresas/energia/zelestra-instala-a-chile-en-un-rol-protagonico-de-su-cartera-en"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Francisco Sebastián Méndez Cea",
+      "cargo": "Country Manager Chile",
+      "tipo": "Gerencia país",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/francisco-mendez-cea-404bb731",
+      "fuente": "https://cl.linkedin.com/in/francisco-mendez-cea-404bb731"
+    },
+    {
+      "nombre": "José Luis García Pérez",
+      "cargo": "CEO Latin America",
+      "tipo": "C-level regional",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jos%C3%A9%20Luis%20Garc%C3%ADa%20P%C3%A9rez%20Zelestra",
+      "fuente": "https://www.df.cl/empresas/energia/zelestra-instala-a-chile-en-un-rol-protagonico-de-su-cartera-en"
+    },
+    {
+      "nombre": "Javier Lorenzini",
+      "cargo": "VP Comercial LATAM",
+      "tipo": "C-level comercial",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/javier-lorenzini-50105892/en",
+      "fuente": "https://cl.linkedin.com/in/javier-lorenzini-50105892/en"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Avenida Vitacura 2909, oficina 306, Las Condes, Santiago",
+    "telefono": "no verificado",
+    "correo": "no verificado",
+    "web": "https://zelestra.energy",
+    "fuente": "https://cl.linkedin.com/company/zelestra"
+  }
+}

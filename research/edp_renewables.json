@@ -1,0 +1,70 @@
+{
+  "empresa": "EDP Renewables Chile",
+  "slug": "edp_renewables",
+  "rubro": "Generación solar fotovoltaica y eólica (IPP)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Electrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Filial chilena de EDP Renewables (EDPR), la división de energías renovables del grupo portugués EDP — Energias de Portugal. Entró al mercado chileno en 2021 y desarrolla un portafolio de proyectos solares, eólicos y de almacenamiento cercano a 1.000 MW. Nota: la planta CEME 1 (480 MW, María Elena) NO pertenece a EDP sino a Generadora Metropolitana (EDF Chile + AME).",
+    "fundada": "2021 (entrada a Chile)",
+    "dotacion": "31 trabajadores en Chile (SII)",
+    "facturacion": "no verificado",
+    "matriz_grupo": "EDP — Energias de Portugal (EDP Renewables, S.A.)",
+    "rut": "77.388.819-1 (EDP Renewables Chile SpA)",
+    "sede": "Los Militares 4611, Oficina 171-A, Las Condes, Santiago",
+    "fuentes": [
+      "https://www.edp.com/en/news/edp-inaugurates-its-first-renewable-project-chile",
+      "https://edp.com/en/media/news/edpr-awarded-public-tender-develop-more-300-mw-renewable-energy-projects-chile",
+      "https://www.bcn.cl/leychile/Navegar?idNorma=1194398",
+      "https://chilepymes.com/info/edp-renewables-chile-spa-C4C4C411A386135A",
+      "https://www.portalchile.org/empresa/edp-renewables-chile-spa-77388819",
+      "https://www.revistaei.cl/edp-renewables-es-certificada-como-una-de-las-mejores-empresas-para-trabajar-en-chile/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica",
+      "generación eólica",
+      "BESS/almacenamiento"
+    ],
+    "rol_cadena": "generadora independiente (IPP)",
+    "fuentes": [
+      "https://www.edp.com/en/news/edp-inaugurates-its-first-renewable-project-chile"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Punta de Talca (parque eólico)",
+      "cliente": "-",
+      "ubicacion": "no verificado",
+      "monto": "83 MW",
+      "fuente": "https://www.edp.com/en/news/edp-inaugurates-its-first-renewable-project-chile"
+    },
+    {
+      "proyecto": "Licitación Taltal (solar + eólico)",
+      "cliente": "-",
+      "ubicacion": "Taltal, Región de Antofagasta",
+      "monto": ">300 MW",
+      "fuente": "https://edp.com/en/media/news/edpr-awarded-public-tender-develop-more-300-mw-renewable-energy-projects-chile"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Enrique Álvarez-Uría Berros",
+      "cargo": "Country Manager Chile",
+      "tipo": "Gerencia país",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://ar.linkedin.com/in/enriquealvarezuria",
+      "fuente": "https://edp.com/en/media/news/edpr-awarded-public-tender-develop-more-300-mw-renewable-energy-projects-chile"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Los Militares 4611, Oficina 171-A, Las Condes, Santiago",
+    "telefono": "no verificado",
+    "correo": "no verificado",
+    "web": "https://www.edp.com/en",
+    "fuente": "https://chilepymes.com/info/edp-renewables-chile-spa-C4C4C411A386135A"
+  }
+}

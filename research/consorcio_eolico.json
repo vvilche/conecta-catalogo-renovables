@@ -1,0 +1,53 @@
+{
+  "empresa": "Consorcio Eólico S.A.",
+  "slug": "consorcio_eolico",
+  "rubro": "Generación eólica (ERNC) — desarrollo, construcción y operación de parques eólicos en Bío-Bío y Araucanía",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Eléctrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Empresa chilena de capitales nacionales especializada en el desarrollo de proyectos eólicos y otras energías renovables (ERNC), desde el anteproyecto hasta la operación. Opera cuatro parques eólicos y maneja una cartera de ~1.300 MW en distintas etapas de desarrollo.",
+    "fundada": "2008 (Región del Bío-Bío)",
+    "dotacion": "70+ colaboradores",
+    "facturacion": "no verificado (declara +US$600 millones invertidos acumulados en proyectos eólicos, no facturación)",
+    "matriz_grupo": "Capitales nacionales chilenos (independiente)",
+    "rut": "76.148.661-6",
+    "sede": "O'Higgins 940, Of. 901, Edificio del Pacífico, Concepción, Región del Bío-Bío",
+    "fuentes": [
+      "https://eolico.cl/nosotros/",
+      "https://www.guiachileenergia.cl/consorcio-eolico-s-a/",
+      "https://eolico.cl/quienes-somos/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación eólica",
+      "desarrollo de proyectos ERNC",
+      "operación de parques eólicos",
+      "inversiones en energía renovable"
+    ],
+    "rol_cadena": "generadora independiente (IPP) — desarrolla, construye y opera sus propios parques eólicos",
+    "fuentes": [
+      "https://eolico.cl/proyectos/",
+      "https://www.guiachileenergia.cl/consorcio-eolico-s-a/"
+    ]
+  },
+  "proyectos": [
+    {"proyecto": "Parque Eólico San Gabriel", "cliente": "-", "ubicacion": "Renaico, Araucanía", "monto": "183 MW", "fuente": "https://eolico.cl/proyectos/"},
+    {"proyecto": "Parque Eólico Los Olmos", "cliente": "-", "ubicacion": "Mulchén, Bío-Bío", "monto": "110 MW", "fuente": "https://eolico.cl/proyectos/"},
+    {"proyecto": "Parque Eólico Tolpán Sur", "cliente": "-", "ubicacion": "Renaico, Araucanía", "monto": "84 MW", "fuente": "https://eolico.cl/proyectos/"},
+    {"proyecto": "Parque Eólico Mesamávida", "cliente": "-", "ubicacion": "Los Ángeles, Bío-Bío", "monto": "60 MW", "fuente": "https://eolico.cl/proyectos/"}
+  ],
+  "tomadores": [
+    {"nombre": "Alejandro Erazo Lynch", "cargo": "Gerente General / CEO", "tipo": "Gerente General", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/alejandro-erazo-lynch-233b7814", "fuente": "https://cl.linkedin.com/in/alejandro-erazo-lynch-233b7814"},
+    {"nombre": "Juan Pablo Young Ch.", "cargo": "Presidente Ejecutivo / Fundador", "tipo": "Presidente Ejecutivo", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://eolico.cl/nosotros/"},
+    {"nombre": "Bernardo Franco", "cargo": "Gerente de Ingeniería y Construcción", "tipo": "Jefe de Ingeniería", "rol_compra": "CT", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://eolico.cl/nosotros/"},
+    {"nombre": "Manuel Estrada Arévalo", "cargo": "Gerente de Administración y Finanzas (CFO)", "tipo": "Gerente de Finanzas", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/manuel-estrada-ar%C3%A9valo", "fuente": "https://cl.linkedin.com/in/manuel-estrada-ar%C3%A9valo"}
+  ],
+  "contacto_corporativo": {
+    "direccion": "O'Higgins 940, Of. 901, Edificio del Pacífico, Concepción, Región del Bío-Bío",
+    "telefono": "+56 41 273 0097",
+    "correo": "contacto@eolico.cl",
+    "web": "https://eolico.cl",
+    "fuente": "https://eolico.cl/en/corporate/"
+  }
+}

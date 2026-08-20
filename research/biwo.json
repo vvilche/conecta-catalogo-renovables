@@ -1,0 +1,55 @@
+{
+  "empresa": "BIWO Renewables SpA",
+  "slug": "biwo",
+  "rubro": "Generación solar y eólica (PMGD y utility scale) + almacenamiento — desarrollador IPP",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Eléctrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Desarrollador y generador chileno de proyectos solares y eólicos (PMGD y utility scale) con desarrollo de almacenamiento energético (BESS). Cuenta con ~80 MWp en operación, ~144 MWp en construcción y acuerdos de inversión con el fondo suizo SUSI Partners para más de 200 MW.",
+    "fundada": "2018",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Independiente (con inversión del fondo suizo SUSI Partners)",
+    "rut": "77.104.666-5",
+    "sede": "Cerro el Plomo 5420, Zócalo -1, Of. 7, Las Condes, Santiago",
+    "fuentes": [
+      "https://biworenovables.com/nosotros/",
+      "https://www.linkedin.com/company/biwo-renewables",
+      "https://www.portalchile.org/diario-oficial/2024/07/08/biwo-renewables-spa-2515950"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica (PMGD)",
+      "generación eólica",
+      "proyectos utility scale",
+      "BESS / almacenamiento"
+    ],
+    "rol_cadena": "generadora independiente (IPP) — desarrolla, construye y opera proyectos solares y eólicos propios",
+    "fuentes": [
+      "https://biworenovables.com/",
+      "https://biworenovables.com/en/about-us/"
+    ]
+  },
+  "proyectos": [
+    {"proyecto": "Portafolio solar en operación", "cliente": "-", "ubicacion": "Chile", "monto": "~80 MWp", "fuente": "https://biworenovables.com/"},
+    {"proyecto": "Portafolio en construcción (solar + eólico)", "cliente": "-", "ubicacion": "Chile", "monto": "~144 MWp", "fuente": "https://biworenovables.com/"},
+    {"proyecto": "Acuerdo SUSI Partners (solar + eólico)", "cliente": "-", "ubicacion": "Chile", "monto": "200+ MW", "fuente": "https://cl.linkedin.com/posts/lembeye_biwo-renovables-firma-acuerdo-para-inversi%C3%B3n-activity-6863869724216836096-bKNg"},
+    {"proyecto": "Portafolio utility solar + BESS", "cliente": "-", "ubicacion": "Chile", "monto": "250+ MWp", "fuente": "https://biworenovables.com/"}
+  ],
+  "tomadores": [
+    {"nombre": "Guillermo Hernández Martínez", "cargo": "CEO & Founder", "tipo": "Gerente General", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://biworenovables.com/en/about-us/"},
+    {"nombre": "Ignacio Godoy López", "cargo": "Executive Director & Co-founder", "tipo": "Director Ejecutivo", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://biworenovables.com/en/about-us/"},
+    {"nombre": "Juan Manuel Negrete Barriga", "cargo": "Head of Operations (Director de Operaciones)", "tipo": "Gerente de Operaciones", "rol_compra": "D", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/juan-manuel-negrete-barriga-72423046", "fuente": "https://cl.linkedin.com/in/juan-manuel-negrete-barriga-72423046"},
+    {"nombre": "Tomás Barría", "cargo": "Head of Business Development", "tipo": "Desarrollo de Negocios", "rol_compra": "I", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://biworenovables.com/en/about-us/"},
+    {"nombre": "Daniel Lillo", "cargo": "Head of Project Management", "tipo": "Jefe de Proyectos", "rol_compra": "CT", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://biworenovables.com/en/about-us/"},
+    {"nombre": "Luis Cid", "cargo": "Head of Project Control & Planning", "tipo": "Control y Planificación", "rol_compra": "R", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://biworenovables.com/en/about-us/"}
+  ],
+  "contacto_corporativo": {
+    "direccion": "Cerro el Plomo 5420, Zócalo -1, Of. 7, Las Condes, Santiago",
+    "telefono": "+56 9 3945 2380",
+    "correo": "contacto@biworenovables.com",
+    "web": "https://biworenovables.com",
+    "fuente": "https://biworenovables.com/nosotros/"
+  }
+}

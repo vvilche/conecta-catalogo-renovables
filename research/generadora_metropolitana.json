@@ -1,0 +1,56 @@
+{
+  "empresa": "Generadora Metropolitana SpA",
+  "slug": "generadora_metropolitana",
+  "rubro": "Generación eléctrica — solar (CEME 1, 480 MW) + ciclo combinado, grupo EDF + AME",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Eléctrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Generadora chilena controlada por EDF (Électricité de France) y el grupo chileno AME. Nace en 2018 al adquirir Eléctrica Santiago. Opera la planta solar CEME 1 (480 MW, la más grande de Chile) junto a centrales de ciclo combinado y térmicas, y avanza en proyectos fotovoltaicos Sol del Loa (800 MW) y La Pampina (200 MW).",
+    "fundada": "2018 (al adquirir Eléctrica Santiago)",
+    "dotacion": "~71 empleados (promedio 2018-2023)",
+    "facturacion": "no verificado",
+    "matriz_grupo": "EDF (Électricité de France) + grupo AME (Chile)",
+    "rut": "76.538.731-0",
+    "sede": "Av. Apoquindo 3472, Of. 1301, Las Condes, Santiago",
+    "fuentes": [
+      "https://www.generadora.cl/nosotros/equipo/",
+      "https://chile.edf.com/es/grupo-edf-en-chile",
+      "https://www.generadora.cl/wp-content/uploads/2024/07/SUSTAINABILTIY-REPORT-2024-Generadora-Metropolitana-2023.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica",
+      "generación térmica (ciclo combinado)",
+      "desarrollo de proyectos fotovoltaicos"
+    ],
+    "rol_cadena": "generadora independiente (IPP) — opera centrales propias (solar + ciclo combinado) y desarrolla nueva capacidad",
+    "fuentes": [
+      "https://chile.edf.com/es/nuestras-actividades/energias-renovables",
+      "https://cl.linkedin.com/company/generadora-metropolitana"
+    ]
+  },
+  "proyectos": [
+    {"proyecto": "Planta Solar CEME 1 (más grande de Chile)", "cliente": "-", "ubicacion": "María Elena, Antofagasta", "monto": "480 MW (inaugurada jul 2024, 882.000 paneles)", "fuente": "https://chile.edf.com/es/nuestras-actividades/energias-renovables"},
+    {"proyecto": "Central Nueva Renca (ciclo combinado)", "cliente": "-", "ubicacion": "Renca, Región Metropolitana", "monto": "379 MW", "fuente": "https://cl.linkedin.com/company/generadora-metropolitana"},
+    {"proyecto": "Central Santa Lidia", "cliente": "-", "ubicacion": "Chile", "monto": "139 MW", "fuente": "https://cl.linkedin.com/company/generadora-metropolitana"},
+    {"proyecto": "Central Los Vientos", "cliente": "-", "ubicacion": "Chile", "monto": "132 MW", "fuente": "https://cl.linkedin.com/company/generadora-metropolitana"},
+    {"proyecto": "Proyecto fotovoltaico Sol del Loa (aprobado)", "cliente": "-", "ubicacion": "Antofagasta", "monto": "800 MW", "fuente": "https://cl.linkedin.com/company/generadora-metropolitana"},
+    {"proyecto": "Proyecto fotovoltaico La Pampina (aprobado)", "cliente": "-", "ubicacion": "Antofagasta", "monto": "200 MW", "fuente": "https://cl.linkedin.com/company/generadora-metropolitana"}
+  ],
+  "tomadores": [
+    {"nombre": "Diego Hollweck", "cargo": "Gerente General", "tipo": "Gerente General", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/diego-hollweck-a05203", "fuente": "https://cl.linkedin.com/in/diego-hollweck-a05203"},
+    {"nombre": "Marsile Roberrini", "cargo": "COO / Gerente de Operaciones", "tipo": "Gerente de Operaciones", "rol_compra": "D", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/marsile-roberrini-82a93488", "fuente": "https://cl.linkedin.com/in/marsile-roberrini-82a93488"},
+    {"nombre": "Laurie Kelly", "cargo": "Gerente de Finanzas", "tipo": "Gerente de Finanzas", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://www.generadora.cl/nosotros/equipo/"},
+    {"nombre": "Benoit Schellekens", "cargo": "Gerente de Optimización de Portafolio", "tipo": "Optimización de Portafolio", "rol_compra": "I", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://www.generadora.cl/nosotros/equipo/"},
+    {"nombre": "Mauricio Caamaño", "cargo": "Gerente de Nuevos Negocios", "tipo": "Nuevos Negocios", "rol_compra": "I", "correo": "mcaamano@generadora.cl", "telefono": "", "linkedin": "", "fuente": "https://firma.sea.gob.cl/publicaciones/2025/01/22/1737577171_2164270252"},
+    {"nombre": "María de Lourdes Velásquez", "cargo": "Gerente Legal y Cumplimiento", "tipo": "Legal y Cumplimiento", "rol_compra": "I", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://www.generadora.cl/nosotros/equipo/"}
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Apoquindo 3472, Of. 1301, Las Condes, Santiago",
+    "telefono": "+56 2 2391 1100",
+    "correo": "contacto@generadora.cl",
+    "web": "https://www.generadora.cl",
+    "fuente": "https://www.generadora.cl/contacto/"
+  }
+}

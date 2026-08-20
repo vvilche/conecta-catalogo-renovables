@@ -1,0 +1,48 @@
+{
+  "empresa": "Statkraft Chile Inversiones Eléctricas Ltda.",
+  "slug": "statkraft",
+  "rubro": "Generación renovable — eólica y solar (cartera ~1.700 MW), filial de Statkraft AS (Noruega)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Eléctrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Filial chilena de Statkraft AS, el mayor generador renovable de Europa, de propiedad 100% del Estado de Noruega. En Chile desarrolla una cartera de ~1.700 MW en proyectos eólicos y solares, incluyendo el parque eólico Taltal (411 MW) y los proyectos solares Pauna, Parina y Tamarugo, además de hidrógeno verde en prefactibilidad.",
+    "fundada": "Presencia en Chile desde ~2017 (liderazgo ejecutivo desde 2020)",
+    "dotacion": "140 empleados (2022)",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Statkraft AS — Estado de Noruega",
+    "rut": "76.328.210-4",
+    "sede": "Av. Vitacura 2969, Piso 7, Edificio Torre Alto El Golf, Las Condes, Santiago",
+    "fuentes": [
+      "https://www.statkraft.com/contacts/south-american-offices/chile-country-office/",
+      "https://www.statkraft.cl/sala-de-prensa/2019/statkraft-ratifica-a-maria-teresa-gonzalez-como-gerenta-general-de-la-compania-en-chile/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación eólica",
+      "generación solar fotovoltaica",
+      "hidrógeno verde (prefactibilidad)"
+    ],
+    "rol_cadena": "generadora independiente (IPP) — desarrolla, construye y operará proyectos eólicos y solares propios",
+    "fuentes": [
+      "https://www.statkraft.cl/clientes/1700-mw-en-proyectos/"
+    ]
+  },
+  "proyectos": [
+    {"proyecto": "Parque Eólico Taltal", "cliente": "-", "ubicacion": "Antofagasta", "monto": "411 MW", "fuente": "https://www.statkraft.cl/clientes/1700-mw-en-proyectos/"},
+    {"proyecto": "Proyecto solar Pauna (con RCA)", "cliente": "-", "ubicacion": "Antofagasta", "monto": "~671 MW", "fuente": "https://www.statkraft.cl/clientes/1700-mw-en-proyectos/"},
+    {"proyecto": "Proyecto solar Tamarugo", "cliente": "-", "ubicacion": "Tarapacá", "monto": "~300 MW", "fuente": "https://www.statkraft.cl/clientes/1700-mw-en-proyectos/"},
+    {"proyecto": "Proyecto solar Parina", "cliente": "-", "ubicacion": "Antofagasta", "monto": "~200 MW", "fuente": "https://www.statkraft.cl/clientes/1700-mw-en-proyectos/"}
+  ],
+  "tomadores": [
+    {"nombre": "María Teresa González Ramírez", "cargo": "Gerente General / Country Manager", "tipo": "Gerente General", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/mar%C3%ADa-teresa-gonz%C3%A1lez-ram%C3%ADrez-13999851", "fuente": "https://cl.linkedin.com/in/mar%C3%ADa-teresa-gonz%C3%A1lez-ram%C3%ADrez-13999851"},
+    {"nombre": "José Marcelo Herrera Rivera", "cargo": "Head of Civil Works & Dam Safety (Operaciones Estratégicas)", "tipo": "Jefe de Obras Civiles", "rol_compra": "R", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/jos%C3%A9-marcelo-herrera-rivera-4bb25a34", "fuente": "https://cl.linkedin.com/in/jos%C3%A9-marcelo-herrera-rivera-4bb25a34"}
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Vitacura 2969, Piso 7, Edificio Torre Alto El Golf, Las Condes, Santiago",
+    "telefono": "+56 2 2592 9200",
+    "correo": "contacto@statkraft.com",
+    "web": "https://www.statkraft.cl",
+    "fuente": "https://www.statkraft.com/contacts/south-american-offices/chile-country-office/"
+  }
+}

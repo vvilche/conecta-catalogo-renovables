@@ -1,0 +1,104 @@
+{
+  "empresa": "Opdenergy Chile",
+  "slug": "opdenergy",
+  "rubro": "Generación solar fotovoltaica, eólica y BESS (IPP)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Electrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "IPP español de energías renovables con foco en solar fotovoltaica, eólica y almacenamiento (BESS). En Chile opera 371 MW de capacidad renovable y tiene ~748 MW en cartera próxima a construir (eólica, solar y almacenamiento).",
+    "fundada": "2005 (matriz)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Opdenergy (matriz en Madrid, España)",
+    "rut": "no verificado",
+    "sede": "Los Militares 5953, Oficina 1803, Las Condes, Santiago (oficina Chile); matriz: Cardenal Marcelo Spínola 42, Madrid",
+    "fuentes": [
+      "https://www.linkedin.com/company/opdenergy",
+      "https://opdenergy.com/2026/07/07/opdenergy-financiacion-chile/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica",
+      "generación eólica",
+      "BESS/almacenamiento"
+    ],
+    "rol_cadena": "generadora independiente (IPP)",
+    "fuentes": [
+      "https://opdenergy.com/2026/07/07/opdenergy-financiacion-chile/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Sol de los Andes (planta solar FV)",
+      "cliente": "-",
+      "ubicacion": "no verificado",
+      "monto": "104 MWp",
+      "fuente": "https://opdenergy.com/proyecto/sol-de-los-andes/"
+    },
+    {
+      "proyecto": "La Estrella (parque eólico)",
+      "cliente": "-",
+      "ubicacion": "Región de O'Higgins",
+      "monto": "50 MW",
+      "fuente": "https://opdenergy.com/proyecto/la-estrella/"
+    },
+    {
+      "proyecto": "Dañicalqui (parque eólico)",
+      "cliente": "-",
+      "ubicacion": "Región de Ñuble",
+      "monto": "95 MW",
+      "fuente": "https://opdenergy.com/2026/07/07/opdenergy-financiacion-chile/"
+    },
+    {
+      "proyecto": "Vientos del Lago (parque eólico)",
+      "cliente": "-",
+      "ubicacion": "Región de Los Lagos",
+      "monto": "132 MW",
+      "fuente": "https://opdenergy.com/2026/07/07/opdenergy-financiacion-chile/"
+    },
+    {
+      "proyecto": "Don Carlos (planta solar FV)",
+      "cliente": "-",
+      "ubicacion": "Atacama",
+      "monto": "235 MW",
+      "fuente": "https://opdenergy.com/2026/07/07/opdenergy-financiacion-chile/"
+    },
+    {
+      "proyecto": "Don Carlos BESS + Alcones BESS",
+      "cliente": "-",
+      "ubicacion": "Chile",
+      "monto": "286 MW / 1,7 GWh (acumulado)",
+      "fuente": "https://opdenergy.com/2026/07/07/opdenergy-financiacion-chile/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Carlos Ortiz Gajardo",
+      "cargo": "Country Manager Chile",
+      "tipo": "Gerencia país",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/carlosortizgajardo",
+      "fuente": "https://cl.linkedin.com/in/carlosortizgajardo"
+    },
+    {
+      "nombre": "Nicolás Díaz Muñoz",
+      "cargo": "O&M Manager Chile",
+      "tipo": "Gerencia operaciones",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/nicolas-diaz-mu%C3%B1oz-6a174316b",
+      "fuente": "https://cl.linkedin.com/in/nicolas-diaz-mu%C3%B1oz-6a174316b"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Los Militares 5953, Oficina 1803, Las Condes, Santiago",
+    "telefono": "no verificado",
+    "correo": "no verificado",
+    "web": "https://opdenergy.com",
+    "fuente": "https://www.linkedin.com/company/opdenergy"
+  }
+}

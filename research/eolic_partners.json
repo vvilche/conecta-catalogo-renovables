@@ -1,0 +1,47 @@
+{
+  "empresa": "Eolic Partners Chile S.A.",
+  "slug": "eolic_partners",
+  "rubro": "Generación eólica — desarrollador de parques eólicos de capital alemán",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Eléctrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Subsidiaria chilena de capital alemán (grupos Ostwind y Aufwind) especializada en el desarrollo de parques eólicos. Presente en Chile desde 2007, opera el parque Los Cururos (109,6 MW, Ovalle) y maneja una cartera de ~500 MW en desarrollo con inversión estimada de hasta US$500 millones.",
+    "fundada": "Presente en Chile desde 2007 (matriz alemana desde 1996)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Ostwind Gruppe / Aufwind Gruppe (Alemania)",
+    "rut": "76.009.882-5",
+    "sede": "Av. Vitacura 3568, Of. 314, Vitacura, Santiago",
+    "fuentes": [
+      "https://www.eolicpartners.com/espa%C3%B1ol/sobre-nosotros/",
+      "https://www.portaldeenergia.cl/CHILENERGIA2015-2016.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación eólica",
+      "desarrollo de parques eólicos",
+      "operación de parques eólicos"
+    ],
+    "rol_cadena": "generadora independiente (IPP) — desarrolla, construye y opera sus propios parques eólicos",
+    "fuentes": [
+      "https://www.eolicpartners.com/espa%C3%B1ol/sobre-nosotros/chile/",
+      "https://www.eolicpartners.com/espa%C3%B1ol/sobre-nosotros/cartera-proyectos/"
+    ]
+  },
+  "proyectos": [
+    {"proyecto": "Parque Eólico Los Cururos (El Pacífico + La Cebada)", "cliente": "-", "ubicacion": "Ovalle, Coquimbo", "monto": "109,6 MW (57 aerogeneradores, operación desde 2014)", "fuente": "https://www.eolicpartners.com/espa%C3%B1ol/sobre-nosotros/chile/"},
+    {"proyecto": "Cartera de proyectos en desarrollo", "cliente": "-", "ubicacion": "Chile", "monto": "~500 MW planificados (US$500M inversión)", "fuente": "https://www.eolicpartners.com/espa%C3%B1ol/sobre-nosotros/cartera-proyectos/"}
+  ],
+  "tomadores": [
+    {"nombre": "Nancy Serrano", "cargo": "Directora General / Managing Director (fuente 2015-2016, vigencia no verificada)", "tipo": "Gerente General", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "https://es.linkedin.com/in/nancyserrano", "fuente": "https://www.portaldeenergia.cl/CHILENERGIA2015-2016.pdf"},
+    {"nombre": "Oliver Wendling", "cargo": "Presidente del Directorio (fuente 2015-2016, vigencia no verificada)", "tipo": "Presidente Directorio", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://www.portaldeenergia.cl/CHILENERGIA2015-2016.pdf"}
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Vitacura 3568, Of. 314, Vitacura, Santiago",
+    "telefono": "+56 2 2953 6217",
+    "correo": "info@eolicpartners.com",
+    "web": "https://www.eolicpartners.com",
+    "fuente": "https://www.portaldeenergia.cl/CHILENERGIA2015-2016.pdf"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "empresa": "Fotowatio Renewable Ventures (FRV) Chile",
+  "slug": "frv",
+  "rubro": "Generación solar fotovoltaica y BESS (IPP)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Electrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "FRV (Fotowatio Renewable Ventures) es un desarrollador y operador global de energía solar fotovoltaica con fuerte presencia en Chile, incluyendo proyectos híbridos con almacenamiento (BESS). En Latinoamérica reporta ~1,5 GW de solar FV en operación, ~3 GW en desarrollo y ~0,5 GW de BESS.",
+    "fundada": "2006 (matriz)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "FRV (grupo Jameel Energy / Abdul Latif Jameel)",
+    "rut": "no verificado",
+    "sede": "Avenida Américo Vespucio Norte 1561, Office 11-A, piso 11, Vitacura, Santiago (oficina Chile); matriz: Madrid, España",
+    "fuentes": [
+      "https://frv.com/en/",
+      "https://cl.linkedin.com/company/fotowatio",
+      "https://frv.com/wp-content/uploads/2025/05/250409FRV-Memoria_ESG-EN-comprimido.pdf",
+      "https://4echile.cl/wp-content/uploads/2024/01/4.-Naiara-Charray-FRVx.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica",
+      "BESS/almacenamiento"
+    ],
+    "rol_cadena": "generadora independiente (IPP)",
+    "fuentes": [
+      "https://frv.com/en/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Llanos de Marañón (solar + BESS)",
+      "cliente": "-",
+      "ubicacion": "Atacama",
+      "monto": "~432 MW + 120 MW BESS",
+      "fuente": "https://frv.com/es/frv-refuerza-su-posicion-en-chile-con-la-admision-a-tramite-del-estudio-de-impacto-ambiental-de-llanos-de-maranon/"
+    },
+    {
+      "proyecto": "Tarapacá (híbrido solar + BESS)",
+      "cliente": "-",
+      "ubicacion": "Región de Tarapacá",
+      "monto": "504 MW DC (168 MW FV + 336 MW / 1,34 GWh BESS)",
+      "fuente": "https://frv.com/projects/tarapaca/"
+    },
+    {
+      "proyecto": "Loncualhue (parque eólico)",
+      "cliente": "-",
+      "ubicacion": "Región del Maule",
+      "monto": "160 MW DC",
+      "fuente": "https://frv.com/en/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Manuel Pavón",
+      "cargo": "Managing Director South America",
+      "tipo": "Dirección regional",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/manuel-pavon-53a83027/pt",
+      "fuente": "https://cl.linkedin.com/in/manuel-pavon-53a83027/pt"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Avenida Américo Vespucio Norte 1561, Office 11-A, piso 11, Vitacura, Santiago",
+    "telefono": "no verificado",
+    "correo": "no verificado",
+    "web": "https://frv.com",
+    "fuente": "https://frv.com/en/"
+  }
+}

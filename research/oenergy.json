@@ -1,0 +1,56 @@
+{
+  "empresa": "oEnergy (oEnergy Holding SpA)",
+  "slug": "oenergy",
+  "rubro": "Generación solar fotovoltaica PMGD + almacenamiento (BESS) — IPP chileno",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Generadora renovable sujeta a PMU/PDC/EDAG por el Coordinador Eléctrico Nacional → compra PMU, PDC, EDAG y SCADA (SUPCON ECS-700 + NovaTech Orion).",
+  "quien_es": {
+    "descripcion": "Productor independiente de energía (IPP) chileno especializado en desarrollo y operación de plantas fotovoltaicas PMGD, con expansión en almacenamiento (BESS) y proyectos híbridos PV+BESS. Ha desarrollado y construido más de 300 MW en proyectos PMGD solares y opera más de 50 plantas entre La Serena y Linares.",
+    "fundada": "2013 (por Ricardo Sylvester Zapata y Yuri Andrade Sylvester)",
+    "dotacion": "58 trabajadores (SII) / más de 200 colaboradores (Pacto Global)",
+    "facturacion": "Tramo 11 SII (200.000 a 600.000 UF/año)",
+    "matriz_grupo": "Independiente (capitales chilenos)",
+    "rut": "77.205.326-6 (oEnergy Holding SpA)",
+    "sede": "Magdalena 181, piso 3, Of. 301, Las Condes, Santiago",
+    "fuentes": [
+      "https://oenergy.cl/es/conocenos",
+      "https://www.latercera.com/pulso/noticia/oenergy-los-pmgd-son-ejemplo-de-una-politica-publica-exitosa-que-permitio-diversificar-las-fuentes-de-energia/YFIWDL6BUJCNPIS5YYOQHKDXNI/",
+      "https://oenergy.cl/files/0429_Reglamento%20de%20Orden%20Higiene%20y%20Seguridad%20Versi%C3%B3n%20oEnergy%20Holding%20SpA.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "generación solar fotovoltaica (PMGD)",
+      "BESS / almacenamiento",
+      "proyectos híbridos PV+BESS",
+      "construcción EPC",
+      "operación y mantenimiento (O&M)"
+    ],
+    "rol_cadena": "generadora independiente (IPP) — desarrolla, construye (EPC) y opera sus propias plantas; 95 plantas vía su filial O&M",
+    "fuentes": [
+      "https://oenergy.cl/es/conocenos",
+      "https://oenergy.cl/pipeline"
+    ]
+  },
+  "proyectos": [
+    {"proyecto": "Planta solar El Tiuque (PMGD + BESS, primer híbrido)", "cliente": "-", "ubicacion": "San Javier, Maule", "monto": "3 MWp", "fuente": "https://es.linkedin.com/posts/macarena-chacc-8b599949_oenergy-inaugur%C3%B3-ayer-pfv-el-tiuque-el-primer-activity-7045138090650140672-jv4l"},
+    {"proyecto": "Portafolio PMGD solar (50+ plantas en operación)", "cliente": "-", "ubicacion": "La Serena a Linares", "monto": "300+ MW acumulados", "fuente": "https://oenergy.cl/es/conocenos"},
+    {"proyecto": "Pipeline construido (279 MWp)", "cliente": "-", "ubicacion": "Multirregional", "monto": "279 MWp", "fuente": "https://oenergy.cl/pipeline"},
+    {"proyecto": "Pipeline BESS standalone + híbridos", "cliente": "-", "ubicacion": "Multirregional", "monto": "2,9 GW en distintas etapas", "fuente": "https://oenergy.cl/"}
+  ],
+  "tomadores": [
+    {"nombre": "Jerónimo Lund", "cargo": "CEO (Gerente General)", "tipo": "Gerente General", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/jeronimolund", "fuente": "https://cl.linkedin.com/in/jeronimolund"},
+    {"nombre": "Cristián Soto Muñoz", "cargo": "Gerente de Operaciones y Mantenimiento (O&M)", "tipo": "Gerente de Operaciones", "rol_compra": "D", "correo": "", "telefono": "", "linkedin": "https://www.linkedin.com/search/results/all/?keywords=Cristi%C3%A1n%20Soto%20Mu%C3%B1oz%20oEnergy", "fuente": "https://es.linkedin.com/posts/oenergy_english-version-below-en-oenergy-las-activity-7379256766464696320-5KCx"},
+    {"nombre": "Adriana Ferrini", "cargo": "Gerente de Ingeniería", "tipo": "Jefe de Ingeniería", "rol_compra": "CT", "correo": "", "telefono": "", "linkedin": "https://cl.linkedin.com/in/adriana-ferrini", "fuente": "https://cl.linkedin.com/in/adriana-ferrini"},
+    {"nombre": "Carlos Guerrero", "cargo": "Gerente de Desarrollo", "tipo": "Gerente de Desarrollo", "rol_compra": "I", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://oenergy.cl/es/conocenos"},
+    {"nombre": "Macarena Chacc", "cargo": "Gerente de Asuntos Corporativos & ESG", "tipo": "Asuntos Corporativos", "rol_compra": "I", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://oenergy.cl/es/conocenos"},
+    {"nombre": "Ricardo Sylvester Zapata", "cargo": "Cofundador / Representante Legal", "tipo": "Fundador", "rol_compra": "A", "correo": "", "telefono": "", "linkedin": "", "fuente": "https://www.latercera.com/pulso/noticia/oenergy-los-pmgd-son-ejemplo-de-una-politica-publica-exitosa-que-permitio-diversificar-las-fuentes-de-energia/YFIWDL6BUJCNPIS5YYOQHKDXNI/"}
+  ],
+  "contacto_corporativo": {
+    "direccion": "Magdalena 181, piso 3, Of. 301, Las Condes, Santiago",
+    "telefono": "+56 2 2231 0521",
+    "correo": "comunicaciones@oenergy.cl",
+    "web": "https://oenergy.cl",
+    "fuente": "https://oenergy.cl/files/0429_Reglamento%20de%20Orden%20Higiene%20y%20Seguridad%20Versi%C3%B3n%20oEnergy%20Holding%20SpA.pdf"
+  }
+}
